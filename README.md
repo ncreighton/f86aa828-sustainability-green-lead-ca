@@ -1,2 +1,28 @@
-# f86aa828-sustainability-green-lead-ca
-Every sustainability green professionals needs this — most just don't know it yet.  Import the JSON, set your credentials, click activate. Running in minutes. Built for production: error handling, retry logic, and failure notifications included.  ## What's Included  - Sustainability &amp; Green Lead Capture And Crm Sync — fully configured and ready to
+# Sustainability & Green Lead Capture and CRM Sync N8N Workflow
+
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Basic triggers | Yes | Yes |
+| Standard nodes | Yes | Yes |
+| Manual execution | Yes | Yes |
+| Advanced triggers | - | Yes |
+| Custom nodes | - | Yes |
+| Scheduled execution | - | Yes |
+| Error handling | - | Yes |
+| Priority queue | - | Yes |
+| Webhook integrations | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/5kQ8wPeTt0bW6xy7jCcZw1U)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/5kQ8wPeTt0bW6xy7jCcZw1U)
+
